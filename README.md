@@ -1,6 +1,6 @@
 # vue-admin
 后台框架
-接前后端项目，php、vue、python、go开发
+接前后端项目，php、vue、python、go开发、BI图表开发
 微信：DC10335
 
 <img src="https://github.com/FONIA/vue-admin/blob/main/1.png" />
